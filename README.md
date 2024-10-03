@@ -3,6 +3,8 @@ Desafio  Processamento de dados em Grande Volumes
 
 Documentação do Código
 Análise de Vendas com Pandas
+
+
 Descrição
 Este código realiza a análise de dados de vendas a partir de um arquivo CSV. Através do uso da biblioteca pandas, o código lê os dados em blocos para evitar problemas de memória e filtra as colunas relevantes. Em seguida, ele realiza as seguintes análises:
 
@@ -13,8 +15,10 @@ Os resultados são organizados em um arquivo Excel, onde cada análise é salva 
 
 Razões para Escolha
 Escolhi usar pandas devido à sua facilidade de uso e robustez para manipulação de dados. A leitura em blocos é uma estratégia eficaz para trabalhar com grandes conjuntos de dados sem sobrecarregar a memória. A capacidade de agrupar e resumir dados em pandas também é uma vantagem significativa, tornando o código mais legível e eficiente para as análises desejadas.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Análise de Vendas com PySpark
+
+
 Descrição
 Este código utiliza a biblioteca PySpark para realizar uma análise distribuída de dados de vendas, permitindo que a aplicação lide com grandes volumes de dados de forma eficiente. As principais etapas da análise incluem:
 
