@@ -15,7 +15,8 @@ Os resultados são organizados em um arquivo Excel, onde cada análise é salva 
 
 Razões para Escolha
 Escolhi usar pandas devido à sua facilidade de uso e robustez para manipulação de dados. A leitura em blocos é uma estratégia eficaz para trabalhar com grandes conjuntos de dados sem sobrecarregar a memória. A capacidade de agrupar e resumir dados em pandas também é uma vantagem significativa, tornando o código mais legível e eficiente para as análises desejadas.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Análise de Vendas com PySpark
 
 
